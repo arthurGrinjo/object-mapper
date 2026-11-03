@@ -10,6 +10,6 @@ Installation:
 
 • `ddev composer install`
 
-Run these tests in your terminal by:
+Run this test in your terminal by:
 
 • `ddev console app:test`
