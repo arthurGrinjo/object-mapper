@@ -12,8 +12,4 @@ Installation:
 
 Run these tests in your terminal by:
 
-• `ddev console app:test-1`
-
-• `ddev console app:test-2`
-
-• `ddev console app:test-...`
+• `ddev console app:test`
